@@ -1,7 +1,9 @@
-Flask Blog Project
+**Flask Blog Project**
+
 This is a blog web application built with Flask, a lightweight Python web framework. The application allows users to register, log in, create blog posts, and comment on posts. It also includes an admin panel for managing users and posts.
 
-Features
+**Features**
+
 User Authentication: Users can register, log in, and log out securely.
 User Roles: Regular users can create posts and comments. Admin users can manage all users and posts.
 Post Creation and Management: Users can create, edit, and delete their own blog posts.
